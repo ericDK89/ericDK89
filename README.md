@@ -1,4 +1,4 @@
-- 👋 Olá, atualmente sou alguém que descobriu uma paixão na programação, e que almeja uma carreira nessa ramo. As linguagens que estou aprendendo no momento são: HTML5, CSS e 
+- 👋 Olá, atualmente sou alguém que descobriu uma paixão na programação, e que almeja uma carreira nessa ramo. As linguagens que estou aprendendo no momento são: HTML5, CSS3 e 
 Javascript, mas futuramente, quando finalizar meus estudos sobre essas três linguagens, irei partir para, NodeJS, React, MongoDB, além de buscar aprender sobre como funciona 
 banco de dados.
 
