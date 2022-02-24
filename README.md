@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o Eric Macedo. 
 
-Eu atualmente estou estudando a área de Full-Stack Developer. 
+Atualmente estou estudando a área de Full-Stack Developer. 
 
 ##
 
