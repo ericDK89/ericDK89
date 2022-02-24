@@ -4,7 +4,7 @@ Eu atualmente estou estudando a área de Full-Stack Developer.
 
 ##
 
-- 🚀 As tecnologias que estou aparendendo no momento são:
+- 🚀 As tecnologias que estou aprendendo no momento são:
     <ul>
         <li>HTML5</li>
         <li>CSS3</li>
