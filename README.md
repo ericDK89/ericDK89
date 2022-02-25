@@ -11,7 +11,7 @@ Atualmente estou estudando a área de Full-Stack Developer.
         <li>JAVASCRIPT</li>
     </ul>
     
-    Futuramente no curso ProgramadorBR irei estudar sobre React, Bootstrap, JQuery, Firebase, Node JS e Mongo DB. Mas não quero para por aí, também irei atrás de conhecimentos sobre banco de dados, PHP e Laravel e quaisquer outras tecnologias que estejam em alta no mercado.
+    Futuramente no curso ProgramadorBR irei estudar sobre React, Bootstrap, JQuery, Firebase, Node JS e Mongo DB. Mas não quero parar por aí, também irei atrás de conhecimentos sobre banco de dados, PHP e Laravel e quaisquer outras tecnologias que estejam em alta no mercado.
     
 ##
 
