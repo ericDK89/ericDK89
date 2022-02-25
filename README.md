@@ -38,7 +38,7 @@ Atualmente estou estudando a área de Full-Stack Developer.
     
 ##
     
-- ✨Já conclui um curso de tecnólogo em Gestão de Tecnologia da Informação. 
+- ✨Já conclui um curso de tecnólogo em Gestão da Tecnologia da Informação, na universidade UniÍtalo. 
 
 
 - ✨ Hoje utilizo o curso do #ProgramadorBR para estudar, além de vários vídeos que assisto todos os dias. Esse curso tem como foco o Full-Stack, onde a primeira metade é voltada para o Front-end e sua segunda metade voltada para Back-end.
