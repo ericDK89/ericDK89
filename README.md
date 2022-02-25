@@ -15,8 +15,12 @@ Atualmente estou estudando a área de Full-Stack Developer.
     
 ##
 
-
-- ✨ Hoje utilizo o curso do #ProgramadorBR para estudar, além de vários vídeos que assisto todos os dias. Esse curso tem como foco o Full-Stack, onde a primeira metade é voltada para o Front-end e sua segunda metade voltada para Back-end.
+- ⭐ Segue alguns dos projetos que criei:
+      
+    <ul>
+     <a href="https://github.com/ericDK89/Desafio-Colegio-Javascript"><li>Desafio para calcular média dos alunos</a>: Nesse projeto, foi utilizado o HTML5 juntamente com o JAVASCRIPT, para calcular a média de alunos de uma escola. Nesse projeto fiz o uso de Array, if e else, for e function.</>
+     <a href="https://github.com/ericDK89/Desafio-churrascometro"><li>Desafio churrascômetro</a>: Esse projeto proposto pelo curso #ProgramadorBR, permite através de um cálculo saber a quantidade ideal de itens que se deve levar para um churrasco. Utilizando dados como a quantidade de adultos e crinças, mais a duração do churrasco é possível calcular quantos KG de carne, latas de cervejas, e litros de refrigerante e água é preciso levar. Nesse desafio foi utilizado HTML5, CSS3 e JAVASCRIPT</>
+    </ul>       
 
 ##
 
@@ -33,13 +37,11 @@ Atualmente estou estudando a área de Full-Stack Developer.
 
     
 ##
+    
+- ✨Já conclui um curso de tecnólogo em Gestão de Tecnologia da Informação. 
 
-- ⭐ Segue alguns dos projetos que criei:
-      
-    <ul>
-     <a href="https://github.com/ericDK89/Desafio-Colegio-Javascript"><li>Desafio para calcular média dos alunos</a>: Nesse projeto, foi utilizado o HTML5 juntamente com o JAVASCRIPT, para calcular a média de alunos de uma escola. Nesse projeto fiz o uso de Array, if e else, for e function.</>
-     <a href="https://github.com/ericDK89/Desafio-churrascometro"><li>Desafio churrascômetro</a>: Esse projeto proposto pelo curso #ProgramadorBR, permite através de um cálculo saber a quantidade ideal de itens que se deve levar para um churrasco. Utilizando dados como a quantidade de adultos e crinças, mais a duração do churrasco é possível calcular quantos KG de carne, latas de cervejas, e litros de refrigerante e água é preciso levar. Nesse desafio foi utilizado HTML5, CSS3 e JAVASCRIPT</>
-    </ul>       
+
+- ✨ Hoje utilizo o curso do #ProgramadorBR para estudar, além de vários vídeos que assisto todos os dias. Esse curso tem como foco o Full-Stack, onde a primeira metade é voltada para o Front-end e sua segunda metade voltada para Back-end.
 
 ##
 
