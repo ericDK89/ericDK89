@@ -1,17 +1,19 @@
 - 👋 Olá, eu sou o Eric Macedo. 
 
-Atualmente estou estudando a área de Developer Web. 
+Atualmente estou estudando a área de desenvolvimento web. 
 
 ##
 
-- 🚀 As tecnologias que estou aprendendo no momento são:
+- 🚀 As tecnologias que utilizo são:
     <ul>
         <li>HTML5</li>
         <li>CSS3</li>
         <li>JAVASCRIPT</li>
+        <li>NODEJS<li>
+        <li>MONGODB<li>
     </ul>
     
-    Futuramente no curso ProgramadorBR irei estudar sobre React, Bootstrap, JQuery, Firebase, Node JS e Mongo DB. Mas não quero parar por aí, também irei atrás de conhecimentos sobre banco de dados, PHP e Laravel e quaisquer outras tecnologias que estejam em alta no mercado.
+    Estou sempre em busca de mais conhecimentos sobre quaisquer tecnologias que estejam em alta no mercado e que possam me auxiliar em minha carreira profissional.
     
 ##
 
@@ -38,7 +40,7 @@ Atualmente estou estudando a área de Developer Web.
     
 ##
     
-- ✨Já conclui um curso de tecnólogo em Gestão da Tecnologia da Informação, na universidade UniÍtalo. 
+- ✨Conclui um em Gestão da Tecnologia da Informação, na universidade UniÍtalo. 
 
 
 - ✨ Hoje utilizo o curso do #ProgramadorBR para estudar, além de vários vídeos que assisto todos os dias. Esse curso tem como foco o Full-Stack, onde a primeira metade é voltada para o Front-end e sua segunda metade voltada para Back-end.
