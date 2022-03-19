@@ -9,8 +9,8 @@ Atualmente estou estudando a área de desenvolvimento web.
         <li>HTML5</li>
         <li>CSS3</li>
         <li>JAVASCRIPT</li>
-        <li>NODEJS<li>
-        <li>MONGODB<li>
+        <li>NODEJS</li>
+        <li>MONGODB</li>
     </ul>
     
     Estou sempre em busca de mais conhecimentos sobre quaisquer tecnologias que estejam em alta no mercado e que possam me auxiliar em minha carreira profissional.
