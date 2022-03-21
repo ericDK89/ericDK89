@@ -33,7 +33,7 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
     
 ##
 
-<div> 
+<div align = "center"> 
     
 ### 📞 Contatos
     
