@@ -1,5 +1,3 @@
-<div align="center">
-
 ### 👋 Olá, eu sou o Eric! 
 
 Um desenvovedor de software que descobriu uma paixão pela programação, estando sempre em busca de aprender cada vez mais. 
@@ -37,5 +35,3 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
 ##
 
 ![Snake animation](https://github.com/alexandresaints/alexandresaints/blob/output/github-contribution-grid-snake.svg)
-
-</div>
