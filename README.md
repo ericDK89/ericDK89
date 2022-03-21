@@ -12,7 +12,7 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
     <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br> 
 
-<div align="center">
+<div align="left">
     <a href="https://github.com/ericDK89"></a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1"/>
 </div>
