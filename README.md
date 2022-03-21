@@ -4,7 +4,7 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
 
 ##
 
-🚀 As tecnologias que tenho experiência são:
+### 🚀 As tecnologias que tenho experiência são:
 
     <ul>
         <li>HTML5</li>
