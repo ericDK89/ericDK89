@@ -18,17 +18,10 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
     <img align="center" alt="Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div><br>
 
-
-</div><br>
-
 <div align="center" id=main >
     <a href="https://github.com/ericDK89"></a>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1"/>
     <img align="right" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"/> 
-</div>
-
-  
-
 </div>
     
 ##
