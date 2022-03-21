@@ -1,4 +1,5 @@
 <div align="center">
+    
 ### 👋 Olá, me chamo Eric! 
 
 Um desenvovedor de software que descobriu uma paixão pela programação, estando sempre em busca de aprender cada vez mais. 
