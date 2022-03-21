@@ -2,8 +2,6 @@
 
 Um desenvovedor de software que descobriu uma paixão pela programação, estando sempre em busca de aprender cada vez mais. 
 
-##
-
 ## 🚀 As tecnologias que tenho experiência são:
 
     <ul>
