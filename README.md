@@ -14,7 +14,6 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
 
 <div align="center">
     <a href="https://github.com/ericDK89"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericDK89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1"/>
 </div>
 <div style="display: inline_block"><br>
