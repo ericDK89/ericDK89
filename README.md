@@ -24,7 +24,7 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
     
 ##
 
-<div align="center"> 
+<div> 
     
 ### 📞 Contatos
     
