@@ -1,4 +1,4 @@
-<div align = "center">
+<div align="center">
 
 ### 👋 Olá, eu sou o Eric! 
 
@@ -26,7 +26,7 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
     
 ##
 
-<div align = "center"> 
+<div align="center"> 
     
 ### 📞 Contatos
     
