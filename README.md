@@ -16,9 +16,9 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
     <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
     <img align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img align="center" alt="Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div><br>
+</div><br><br>
 
-<div align="left">
+<div align="center">
     <a href="https://github.com/ericDK89"></a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=aura&hide_langs_below=1"/>
     <img align="right" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"/> 
