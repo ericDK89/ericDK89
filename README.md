@@ -1,10 +1,10 @@
-- 👋 Olá, eu sou o Eric Macedo. 
+### 👋 Olá, eu sou o Eric! 
 
-Atualmente estou estudando a área de desenvolvimento web. 
+Um desenvovedor de software que descobriu uma paixão pela programação, estando sempre em busca de aprender cada vez mais. 
 
 ##
 
-- 🚀 As tecnologias que utilizo são:
+## 🚀 As tecnologias que tenho experiência são:
     <ul>
         <li>HTML5</li>
         <li>CSS3</li>
@@ -13,17 +13,6 @@ Atualmente estou estudando a área de desenvolvimento web.
         <li>MONGODB</li>
     </ul>
     
-    Estou sempre em busca de mais conhecimentos sobre quaisquer tecnologias que estejam em alta no mercado e que possam me auxiliar em minha carreira profissional.
-    
-##
-
-- ⭐ Segue alguns dos projetos que criei:
-      
-    <ul>
-     <a href="https://github.com/ericDK89/Desafio-Colegio-Javascript"><li>Desafio para calcular média dos alunos</a>: Nesse projeto, foi utilizado o HTML5 juntamente com o JAVASCRIPT, para calcular a média de alunos de uma escola. Nesse projeto fiz o uso de Array, if e else, for e function.</>
-     <a href="https://github.com/ericDK89/Desafio-churrascometro"><li>Desafio churrascômetro</a>: Esse projeto proposto pelo curso #ProgramadorBR, permite através de um cálculo saber a quantidade ideal de itens que se deve levar para um churrasco. Utilizando dados como a quantidade de adultos e crinças, mais a duração do churrasco é possível calcular quantos KG de carne, latas de cervejas, e litros de refrigerante e água é preciso levar. Nesse desafio foi utilizado HTML5, CSS3 e JAVASCRIPT</>
-    </ul>       
-
 ##
 
 <div align="center">
@@ -36,15 +25,7 @@ Atualmente estou estudando a área de desenvolvimento web.
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
     
-##
-    
-- ✨Conclui um em Gestão da Tecnologia da Informação, na universidade UniÍtalo. 
-
-
-- ✨ Hoje utilizo o curso do #ProgramadorBR para estudar, além de vários vídeos que assisto todos os dias. Esse curso tem como foco o Full-Stack, onde a primeira metade é voltada para o Front-end e sua segunda metade voltada para Back-end.
-
 ##
 
 <div> 
