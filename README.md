@@ -21,7 +21,7 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
 
 </div><br>
 
-<div id=main >
+<div align="center" id=main >
     <a href="https://github.com/ericDK89"></a>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1"/>
     <img align="right" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"/> 
