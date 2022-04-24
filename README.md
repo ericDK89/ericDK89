@@ -20,7 +20,7 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
 
 <div align="center">
     <a href="https://github.com/ericDK89"></a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericDK89&theme=aura&hide=html"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericDK89&theme=aura"/>
     <img align="right" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"/> 
 </div>
     
