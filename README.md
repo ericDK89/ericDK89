@@ -12,10 +12,10 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
     <img align="center" title="Javascript" alt="Javascript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" title="NodeJS" alt="NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" title="ReactJS" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" title="HTML5" alt="HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" title="CSS3" alt="CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" title="TypeScript" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" title="Sass" alt="Sass" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img align="center" title="MongoDB" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    <img align="center" title="Git" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" title="MySql" alt="MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div><br><br>
 
 <div align="center">
@@ -23,7 +23,7 @@ Um desenvovedor de software que descobriu uma paixão pela programação, estand
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericDK89&theme=aura"/>
     <img align="right" width="400" src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif"/> 
 </div>
-    
+       
 ##
 
 <div> 
