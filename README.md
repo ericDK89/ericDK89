@@ -2,7 +2,7 @@
     
 ### 👋 Olá, me chamo Eric! 
 
-Um desenvovedor de software que descobriu uma paixão pela programação, estando sempre em busca de aprender cada dia mais. 
+Desenvolvedor Front-End, apaixonado por programação, estudando todos os dias, em busca de apriomorar sempre meus conhecimentos mais. 
 
 ##
 
