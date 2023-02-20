@@ -4,7 +4,7 @@ Um developer full stack, que ama tecnologia, focado nas melhores tecnologias de 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/68076508/216452882-94eaed11-1594-473a-b551-dfbfcf2712d4.gif" />
+<img align="right" width="450" src="https://user-images.githubusercontent.com/68076508/216452882-94eaed11-1594-473a-b551-dfbfcf2712d4.gif" />
 
 ```javascript
 import express from "express"
