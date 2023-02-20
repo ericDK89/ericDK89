@@ -4,7 +4,7 @@ Um developer full stack, que ama tecnologia, focado nas melhores tecnologias de 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="500" src="https://user-images.githubusercontent.com/68076508/216452882-94eaed11-1594-473a-b551-dfbfcf2712d4.gif" />
+<img align="right" width="450" src="https://user-images.githubusercontent.com/68076508/216452882-94eaed11-1594-473a-b551-dfbfcf2712d4.gif" />
 
 ```javascript
 import express from "express"
@@ -29,10 +29,13 @@ app.listen(3333, () => {
 ## **Linguagens:**  
 
 <div style="display: inline_block"><br>
+   <img src="https://user-images.githubusercontent.com/68076508/220209165-b73b5422-e845-49f8-b62a-06738705020b.png" width="50" height="40" align="center"/>
+  <img src="https://user-images.githubusercontent.com/68076508/220209169-a4c2e8ea-f110-4704-ae59-4297bf3a6776.png" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
 </div><br>
 
 <a href="https://github.com/Gurupreet">
