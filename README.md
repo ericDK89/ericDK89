@@ -26,7 +26,7 @@ app.listen(3333, () => {
 
 ```
 
-## **Linguagens:**  
+## **Ferramentas:**  
 
 <div style="display: inline_block"><br>
    <img src="https://user-images.githubusercontent.com/68076508/220209165-b73b5422-e845-49f8-b62a-06738705020b.png" width="50" height="40" align="center"/>
