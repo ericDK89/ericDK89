@@ -36,7 +36,7 @@ app.listen(3333, () => {
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://www.pinclipart.com/picdir/middle/269-2691398_python-logo-clipart-transparent-background-png-download.png](https://github.com/ericDK89/ericDK89/assets/68076508/01587fc4-9eb3-4442-b1be-6d575e59da28" width="50" height="40" align="center"/>
+  <img src="https://github.com/ericDK89/ericDK89/assets/68076508/01587fc4-9eb3-4442-b1be-6d575e59da28" width="50" height="40" align="center"/>
 </div><br>
 
 <a href="https://github.com/Gurupreet">
