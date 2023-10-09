@@ -10,6 +10,11 @@ Um Desenvolvedor full stack, que ama tecnologia, com o foco de ingressar na carr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericDK89&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🌐 Contatos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eric-macedo-dev/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ericthr42@gmail.com) 
-
+<p align="left">
+  <a target="_blank" href="https://www.linkedin.com/in/eric-macedo-dev//" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+   <a target="_blank" href="mailto:ericthr42@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+</a>
+</p>
