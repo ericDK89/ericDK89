@@ -1,7 +1,5 @@
 # Olá, eu sou Eric Macedo 👋
 
-![Avatar](https://avatars.githubusercontent.com/u/ericDK89?v=4)
-
 ## Sobre Mim
 
 Olá! Me chamo Eric, um desenvolvedor apaixonado por tecnologia e inovação. Gosto de resolver problemas e criar soluções eficientes. No meu tempo livre, fico com a minha namorada e assisto animes.
