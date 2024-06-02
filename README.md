@@ -1,6 +1,6 @@
 # Olá, eu sou Eric Macedo 👋
 
-![Avatar](https://avatars.githubusercontent.com/u/SeuUsername?v=4)
+![Avatar](https://avatars.githubusercontent.com/u/ericDK89?v=4)
 
 ## Sobre Mim
 
