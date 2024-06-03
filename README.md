@@ -11,7 +11,7 @@ Olá! Me chamo Eric, um desenvolvedor apaixonado por tecnologia e inovação. Go
 
 - **Linguagens:** Python, JavaScript, TypeScript e Java.
 - **Frameworks:** Flask, FastAPI, React, Node.js, Spring Boot.
-- **Ferramentas:** Git, Docker, Kubernetes, AWS.
+- **Ferramentas:** Git, Docker, Linux, AWS.
 
 ## Contatos
 
