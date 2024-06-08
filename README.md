@@ -1,11 +1,13 @@
+
 # Olá, eu sou Eric Macedo 👋
 
 ## Sobre Mim
 
-Olá! Me chamo Eric, um desenvolvedor apaixonado por tecnologia e inovação. Gosto de resolver problemas e criar soluções eficientes. No meu tempo livre, como todo bom nerd costumo assistir animes.
+Olá! Meu nome é Eric e sou um desenvolvedor apaixonado por tecnologia e inovação. Gosto de resolver problemas e criar soluções eficientes. No meu tempo livre, como todo bom nerd, costumo assistir animes.
 
-- 🔭 Atualmente estou trabalhando em um projeto para Gestão de Estoque, utilizando Python, FastAPI, SQLAlchemy, Docker e Postgres como Banco de dados. Estou implementando microsserviços além de testes, futuramente também quero adicionar mensageria e CI/CD.
-- 🌱 Atualmente estou aprendendo tecnologias e metodologias como Python, FastAPI, Java, SpringBoot, Microsserviços, TDD, mensageria...
+- 🔭 Atualmente, estou trabalhando em um projeto de Gestão de Estoque utilizando Python, FastAPI, SQLAlchemy, Docker e Postgres como banco de dados. Estou implementando microsserviços e mensageria.
+
+- 🌱 Estou aprendendo tecnologias e metodologias como Python, FastAPI, Java, Spring Boot, microsserviços, TDD e mensageria.
 
 ## Habilidades
 
@@ -25,5 +27,3 @@ Olá! Me chamo Eric, um desenvolvedor apaixonado por tecnologia e inovação. Go
 </p>
 
 ## Estatísticas do GitHub
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ericDK89&layout=compact&theme=radical)
