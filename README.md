@@ -5,9 +5,9 @@
 
 Olá! Meu nome é Eric e sou um desenvolvedor apaixonado por tecnologia e inovação. Gosto de resolver problemas e criar soluções eficientes. No meu tempo livre, como todo bom nerd, costumo assistir animes.
 
-- 🔭 Atualmente, estou trabalhando em um projeto de Gestão de Estoque chamado StockMaster utilizando Python, FastAPI, SQLAlchemy, Docker e Postgres como banco de dados. Estou implementando microsserviços e mensageria.
+- 🔭 Atualmente, estou melhorando meus conhecimentos em lógica de programação, microserviços, banco de dados, Java, Spring Boot, mensageria e TDD.
 
-- 🌱 Estou aprendendo tecnologias e metodologias como Python, FastAPI, Java, Spring Boot, microsserviços, TDD e mensageria.
+- 🌱 Estou aprendendo tecnologias e metodologias como Python, FastAPI, Java, Spring Boot, microsserviços, TDD, mensageria, etc.
 
 ## Habilidades
 
