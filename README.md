@@ -6,7 +6,7 @@ My name is Eric Macedo, a passionate Software Developer from Brazil who loves le
 
 <p>🎓 Graduated in IT at <a href="https://uniitalo.com.br/" target="blank_">Centro Universitário Ítalo Brasileiro</a></p>
 
-<p>🌎󠁧 <a href="https://cert.efset.org/3TP5wq">C2 Advanced English Level</a></p>
+<p>🌎󠁧 <a href="https://cert.efset.org/pt/azsknp">C2 Advanced English Level</a></p>
 
 <br/>
 
